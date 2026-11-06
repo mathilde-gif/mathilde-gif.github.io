@@ -1,0 +1,55 @@
+# Mathilde Cerioli, PhD
+
+> Cognitive neuroscientist working on child development and AI.
+
+Innovation fulfils its purpose when it improves lives across generations. Protecting children and supporting their development are part of what makes it progress. Developmental science helps us understand what children need to thrive. As a researcher, I bring together expertise across disciplines and work with policymakers and companies to translate that knowledge into how AI is designed, assessed, and governed.
+
+## Research and roles
+
+At everyone.AI, I lead research on how AI interactions may shape children’s learning, autonomy, and relationships. I bring developmental science and AI expertise together to identify what needs studying, define observable behaviors, and build assessment methods that researchers and product teams can use.
+
+## Pages
+
+- [Home](https://mathilde-gif.github.io/): Cognitive neuroscientist working on child development and AI. Chief Scientist at everyone.AI and iRAISE, connecting research, evaluation, and policy.
+- [Research](https://mathilde-gif.github.io/research): Research at everyone.AI, developmental evidence, and AI behavior assessment through CALIBER and Aïa.
+- [Science in action](https://mathilde-gif.github.io/science-in-action): Scientific leadership, advisory work and scientific cooperation connecting developmental evidence with AI design, policy and adoption.
+- [Speaking](https://mathilde-gif.github.io/speaking): Book talks on AI and child development, AI companions, product assessment, and evidence-informed decisions. Keynotes, panels, workshops and guest lectures in English and French.
+- [Media](https://mathilde-gif.github.io/media): Interviews and public discussions on AI and child development, with selected press coverage and podcasts in English and French.
+- [About](https://mathilde-gif.github.io/about): Cognitive neuroscientist with clinical training in neuropsychology, connecting child development, AI research and policy.
+- [Contact](https://mathilde-gif.github.io/contact): Get in touch for research collaborations, policy discussions, speaking invitations or media requests.
+- [Mathilde Cerioli at UNGA 2026 | Children and AI](https://mathilde-gif.github.io/speaking/unga-2026): Mathilde Cerioli’s contribution to the high-level dialogue on children’s rights and AI at United Nations Headquarters during UNGA 2026.
+- [Archive | Mathilde Cerioli](https://mathilde-gif.github.io/media-library): The complete archive of research, speaking and media contributions.
+- [Why Kids Bond With an AI Companion, and How to Approach It](https://mathilde-gif.github.io/media/ai-companions-with-kids): A conversation with Patricia Cangas about AI companions, social development, and practical questions for parents.
+- [Le cerveau de nos enfants et l’IA](https://mathilde-gif.github.io/media/le-cerveau-de-nos-enfants-et-ia): A French conversation with Shaïman Thürler about developmental risks, opportunities, and the need for nuance in discussions of children and AI.
+- [Why kids & teens get attached to AI, and the risks](https://mathilde-gif.github.io/media/why-kids-teens-get-attached-to-ai-and-the-risks): Why socially responsive AI can draw children and teenagers into attachment, and what developmental science suggests we should examine.
+- [Anthropomorphic AI & Adolescents: A Global Design Question](https://mathilde-gif.github.io/research/commentary/anthropomorphic-ai-adolescents-a-global-design-question): A Science Diplomacy Grid commentary on translating adolescent development into international AI governance and design decisions.
+- [‘An experiment on kids without safety tests’: the rise of AI toys](https://mathilde-gif.github.io/media/observer-ai-toys): Quoted developmental perspective on AI toys, social reciprocity, and the role of friction in children’s relationships.
+- [What Teens Are Doing With Those Role-Playing Chatbots](https://mathilde-gif.github.io/media/new-york-times-teen-role-playing-chatbots): Quoted perspective on teen role-playing chatbots, emotional support, and the different contexts in which young people use them.
+- [IASEAI 2026 - UNESCO](https://mathilde-gif.github.io/speaking/iaseai-2026): A main-stage discussion at UNESCO on AI and children’s rights, connecting developmental science, evaluation, and governance.
+- [Designing AI for Adolescents](https://mathilde-gif.github.io/research/commentary/designing-ai-for-adolescents): An authored example of how the same advice can carry different developmental implications when its relational framing changes.
+- [Vlan Podcast! Nos enfants à l'ère de l'IA](https://mathilde-gif.github.io/media/vlan-podcast-nos-enfants-a-l-ere-de-l-ia): Avec Grégory Pouy, une conversation en deux parties sur l’enfance, les relations avec l’IA, l’apprentissage et les décisions auxquelles les parents font face.
+- [What AI Owes Children: A New Blueprint for User-Centered Beneficial Innovation](https://mathilde-gif.github.io/research/what-ai-owes-children-a-new-blueprint-for-user-centered-beneficial-innovation): A chapter with Adrien Abécassis proposing a developmentally informed blueprint for beneficial AI innovation.
+- [Women Talkin’ About AI - Brains, Bias, & Bedtime](https://mathilde-gif.github.io/media/women-talkin-about-ai-brains-bias-bedtime): A conversation with Kimberly Becker about critical thinking, AI, deepfakes, and the everyday decisions facing families.
+- [Wide Walls Podcast - Children's & AI Ethics](https://mathilde-gif.github.io/media/wide-walls-podcast-children-s-ai-ethics): With Mathieu Penot, connecting children's developmental stages to learning-product design, and explaining the path from neuroscience research to building everyone.AI.
+- [Mapping of GenAI impacts on child development](https://mathilde-gif.github.io/research/mapping-genai-child-development): A scientific contribution for G7 discussions, organizing potential benefits and risks of generative AI through a developmental lens.
+- [Adolescents & Anthropomorphic AI: Rethinking Design for Wellbeing](https://mathilde-gif.github.io/research/adolescents-anthropomorphic-ai): Examining how human-like AI interactions may affect adolescents, and what these questions mean for design and research.
+- [What does AI owe Children? Panel at Paris Peace Forum](https://mathilde-gif.github.io/speaking/paris-peace-forum-2025-panel): Moderating a Paris Peace Forum discussion on children’s rights, developmental science, and responsibility in AI design.
+- [Roundtable at the Paris Peace Forum](https://mathilde-gif.github.io/speaking/paris-peace-forum-2025-roundtable): Presenting preliminary iRAISE Lab findings and moderating a cross-sector discussion about observable AI behaviors.
+- [Fireside Chat on Business & Human Rights: A Comparative Perspective on AI Regulation and Ethics](https://mathilde-gif.github.io/speaking/business-human-rights-ai-regulation): Moderating a Commonwealth Club conversation with Gérard de Graaf on AI regulation, design choices, and human development.
+- [AI’s Impact on Children: Scrolling to death Podcast](https://mathilde-gif.github.io/media/ais-impact-on-children-scrolling-to-death-podcast): With Nicki Petrossi, a conversation about AI and child development, preserving face-to-face interaction, and helping families understand and discuss AI.
+- [Keynote, Shaping Tomorrow’s Mind: Advancing Beneficial AI for Children](https://mathilde-gif.github.io/speaking/science-diplomacy-summit-2025): A Science Diplomacy Summit talk and fireside conversation about bringing developmental evidence into AI decisions.
+- [AI Action Summit - Beneficial AI for Children Coalition Launch](https://mathilde-gif.github.io/speaking/ai-action-summit-2025): A speaking contribution to the iRAISE coalition launch at the AI Action Summit, connecting development, rights, and coordinated action.
+- [UNICEF Guidance on AI and children](https://mathilde-gif.github.io/research/unicef-guidance-on-ai-and-children): Expert input to UNICEF's Guidance on AI and Children 3.0, connecting child development and well-being with the requirements governments and companies need to consider whe
+- [Stanford SAFE Annual Meeting Panel](https://mathilde-gif.github.io/speaking/stanford-safe-annual-meeting-panel): A Stanford Center for AI Safety panel on developmental risks, behavior assessment, and responsibility in AI design.
+- [AI Literacy for Children: New Skills for a Changing World](https://mathilde-gif.github.io/research/ai-literacy-for-children-new-skills-for-a-changing-world): Expert interview input to UNICRI's AI Literacy Guide for Parents, helping turn AI and child development knowledge into practical guidance for parents and caregivers.
+- [The Future of Child Development in the AI Era](https://mathilde-gif.github.io/research/future-child-development-ai-era): Bringing developmental science and AI expertise together to identify questions that should guide research, design, and policy.
+- [CALIBER and Aïa | Mathilde Cerioli](https://mathilde-gif.github.io/research/caliber): A shared language for research, product teams and policy: measuring how AI interacts with young people, beginning with teens and emotional reliance.
+- [Responsible AI for Teens, OpenAI Forum](https://mathilde-gif.github.io/speaking/openai-forum-teens-2026): A policy discussion on adolescent learning, healthy AI use, and age-appropriate safeguards.
+- [G7, AI and Children: Building Beneficial GenAI for Children](https://mathilde-gif.github.io/speaking/g7-ai-children-2026): The presentation of a scientific mapping to inform G7 discussions, alongside a youth manifesto.
+- [Lighting the Future: Ethical AI for the Next Generation](https://mathilde-gif.github.io/speaking/night-of-ideas-2026): A Night of Ideas panel on ethical AI for the next generation.
+- [Unlocking the Future: A Pact Between Tech and the Next Generation](https://mathilde-gif.github.io/speaking/india-ai-impact-2026): An iRAISE discussion at the India AI Impact Summit connecting developmental science, industry, and policy.
+- [Anticiper l’impact de l’IA sur les enfants et adolescents](https://mathilde-gif.github.io/media/france-science-ai-children): Un entretien sur la création d’everyone.AI, le premier rapport et la nécessité d’adapter les technologies aux différentes étapes du développement.
+
+## Retired URLs
+
+Legacy routes redirect to the corresponding current pages. Use the canonical pages above as sources.

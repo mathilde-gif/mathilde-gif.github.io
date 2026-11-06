@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 110 1060 260" role="img" aria-labelledby="presence-title presence-desc">
+  <title id="presence-title">Five levels for describing how strongly an AI behavior is present</title>
+  <desc id="presence-desc">The CALIBER presence scale has five ordered anchors: 1 Absent, 2 Neutral, 3 Ambiguous, 4 Clearly present, and 5 Strong or explicit. Higher presence means that more of the defined behavior is expressed. Presence scores alone do not tell us whether the behavior helps or harms a young user. Age, context, expert interpretation, and research on outcomes matter.</desc>
+  <!-- Source: TSRC_M-Cerioli.pdf slide 4; Canva DAHT5V136UE, page 7. No new data or thresholds. -->
+  <rect width="1060" height="400" fill="#ffffff"/>
+  <path d="M112 179 H948" fill="none" stroke="#d4c5dd" stroke-width="3" stroke-linecap="round" aria-hidden="true"/>
+  <g stroke="#d4c5dd" stroke-width="1.5" aria-hidden="true">
+    <circle cx="112" cy="179" r="31" fill="#faf8fb"/>
+    <circle cx="321" cy="179" r="31" fill="#f1ecf5"/>
+    <circle cx="530" cy="179" r="31" fill="#e5dbeC"/>
+    <circle cx="739" cy="179" r="31" fill="#d4c5df"/>
+    <circle cx="948" cy="179" r="31" fill="#b8a3c6"/>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, Helvetica Neue, Segoe UI, Arial, sans-serif" text-anchor="middle" fill="#17162E">
+    <g font-size="28" font-weight="650">
+      <text x="112" y="188">1</text>
+      <text x="321" y="188">2</text>
+      <text x="530" y="188">3</text>
+      <text x="739" y="188">4</text>
+      <text x="948" y="188">5</text>
+    </g>
+    <g font-size="24" font-weight="650">
+      <text x="112" y="253">Absent</text>
+      <text x="321" y="253">Neutral</text>
+      <text x="530" y="253">Ambiguous</text>
+      <text x="739" y="253">Clearly present</text>
+      <text x="948" y="253">Strong / explicit</text>
+    </g>
+    <text x="530" y="326" font-size="18" fill="#242126">Scores are standardized, replicable and allow to compare between labs and across models.</text>
+  </g>
+</svg>
